@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "m0ises2",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.1.0",
+    "babel-polyfill": "^6.26.0"
+  }
 }
