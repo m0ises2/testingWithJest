@@ -9,7 +9,11 @@ beforeEach(() => console.info('Antes de cada prueba.'))
 beforeAll(() => console.info('Antes de todas las pruebas'));
 
 describe('preparar antes de ejecutar', () => {
-    test('es verdadero', () => {
+    test('es false', () => {
         expect(false).toBeFalsy();
-    })
+    });
+
+    test('es true', () => {
+        expect(true).toBeTruthy();
+    });
 });
