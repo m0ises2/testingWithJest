@@ -11,6 +11,7 @@
   "author": "m0ises2",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "jest": "^24.1.0"
   },
   "devDependencies": {
