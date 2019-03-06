@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing snapshots Es igual 1`] = `
+Object {
+  "gender": "Males",
+  "id": 1,
+  "name": "Rick Sanchez",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
